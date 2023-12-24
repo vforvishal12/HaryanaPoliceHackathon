@@ -51,8 +51,6 @@ const projectsData = [
     
     Intoxication literally means “to poison by taking a toxic substance into your body.” Any substance that intoxicates causes changes in the body and the mind. It can create addiction or dependence, causing a person to want to take that drug even if it harms him or her.
     
-    You may have heard someone say that because marijuana is a plant, it’s “natural” and so it’s harmless. But it’s not. Hemlock, a poisonous plant, is also “natural,” but it can kill.
-    
     The other thing to know is that burning dried leaves and buds and inhaling the smoke into your lungs is definitely not “natural” and like smoking cigarettes, can be harmful to your body.
     
     As for the medical uses of marijuana, it contains another chemical called CBD (short for cannabidiol). This is the substance most often associated with creating medical benefits. Unlike THC, CBD does not cause a high.2 Its medical benefits are still being studied, as are methods to breed marijuana plants with high CBD and low THC for medical use.
