@@ -58,7 +58,6 @@ const projectsData = [
     As for the medical uses of marijuana, it contains another chemical called CBD (short for cannabidiol). This is the substance most often associated with creating medical benefits. Unlike THC, CBD does not cause a high.2 Its medical benefits are still being studied, as are methods to breed marijuana plants with high CBD and low THC for medical use.
     
     Marijuana is a drug like alcohol, cocaine, or ecstasy. And like these other drugs, it has side effects that can be harmful.
-    
     `,
     imgSrc: 'https://en.wikipedia.org/wiki/File:Cannabis_leaf.svg',
     href: 'https://en.wikipedia.org/wiki/Cannabis_in_India',
