@@ -1,6 +1,6 @@
 const projectsData = [
   {
-    title: 'OUR DRUG CULTURE',
+    title: "Our Drug Culture",
     description: `India, like many other countries, has a complex relationship with drugs, encompassing both traditional and contemporary aspects. Here are some key points related to drug culture in India:
 
     Traditional Drug Use:
@@ -31,11 +31,11 @@ const projectsData = [
     
     Collaboration with Other Countries: India collaborates with international organizations and other countries to address the global issue of drug trafficking. This includes participation in efforts to combat the production and trafficking of illegal drugs.
     It's important to note that drug culture and the challenges associated with it can vary widely across different regions of India, and the situation may evolve over time. Additionally, policies and attitudes toward drug use may change, and new initiatives may be introduced to address emerging issues.`,
-    imgSrc: 'https://images.app.goo.gl/SMaPFpRCFwFwpdTr7',
-    href: 'https://www.indiatoday.in/diu/story/all-you-need-to-know-about-drugs-substance-abuse-in-india-1860644-2021-10-04',
+    imgSrc: "https://images.app.goo.gl/SMaPFpRCFwFwpdTr7",
+    href: "https://www.indiatoday.in/diu/story/all-you-need-to-know-about-drugs-substance-abuse-in-india-1860644-2021-10-04",
   },
   {
-    title: 'WHAT IS MARIJUANA?',
+    title: "WHAT IS MARIJUANA?",
     description: `Marijuana is one of the most abused drugs in the world. There is an ever-growing gap between the latest science about marijuana and the myths surrounding it. Some people think that since it is legal in some places, it must be safe. But your body doesn’t know a legal drug from an illegal drug. It only knows the effect the drug creates once you have taken it. The purpose of this publication is to clear up some of the misunderstandings about pot.
 
     Marijuana comes from the Indian hemp plant, and the part that contains the “drug” is found primarily in the flowers (commonly called the “buds”) and much less in the seeds, leaves, and stems of the plant.
@@ -55,11 +55,10 @@ const projectsData = [
     
     As for the medical uses of marijuana, it contains another chemical called CBD (short for cannabidiol). This is the substance most often associated with creating medical benefits. Unlike THC, CBD does not cause a high.2 Its medical benefits are still being studied, as are methods to breed marijuana plants with high CBD and low THC for medical use.
     
-    Marijuana is a drug like alcohol, cocaine, or ecstasy. And like these other drugs, it has side effects that can be harmful.
-    `,
-    imgSrc: 'https://en.wikipedia.org/wiki/File:Cannabis_leaf.svg',
-    href: 'https://en.wikipedia.org/wiki/Cannabis_in_India',
+    Marijuana is a drug like alcohol, cocaine, or ecstasy. And like these other drugs, it has side effects that can be harmful.`,
+    imgSrc: "https://en.wikipedia.org/wiki/File:Cannabis_leaf.svg",
+    href: "https://en.wikipedia.org/wiki/Cannabis_in_India",
   },
-]
+];
 
-export default projectsData
+export default projectsData;
