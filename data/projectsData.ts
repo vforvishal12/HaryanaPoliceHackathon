@@ -36,26 +36,7 @@ const projectsData = [
   },
   {
     title: "WHAT IS MARIJUANA?",
-    description: `Marijuana is one of the most abused drugs in the world. There is an ever-growing gap between the latest science about marijuana and the myths surrounding it. Some people think that since it is legal in some places, it must be safe. But your body doesn’t know a legal drug from an illegal drug. It only knows the effect the drug creates once you have taken it. The purpose of this publication is to clear up some of the misunderstandings about pot.
-
-    Marijuana comes from the Indian hemp plant, and the part that contains the “drug” is found primarily in the flowers (commonly called the “buds”) and much less in the seeds, leaves, and stems of the plant.
-    
-    Marijuana is one of the most abused drugs in the world.
-    Marijuana, when sold, is a mixture of dried out leaves, stems, flowers and seeds of the hemp plant. It is usually green, brown or gray in color.
-    
-    Hashish is tan, brown or black resin that is dried and pressed into bars, sticks or balls. When smoked, both marijuana and hashish give off a distinctive, sweet odor.
-    
-    There are over 400 chemicals in marijuana and hashish.1 The chemical that causes intoxication or the “high” in users is called THC (short for tetrahydrocannabinol). THC creates the mind-altering effects that classifies marijuana as a “drug.”
-    
-    Plants, like animals, have traits that protect them in the wild. Plants can have colors or patterns that camouflage them from predators, or they can contain poisons or toxins that, when eaten, make animals sick or alter their mental capacity, putting them at risk in the wild. THC is the protective mechanism of the marijuana plant.
-    
-    Intoxication literally means “to poison by taking a toxic substance into your body.” Any substance that intoxicates causes changes in the body and the mind. It can create addiction or dependence, causing a person to want to take that drug even if it harms him or her.
-    
-    The other thing to know is that burning dried leaves and buds and inhaling the smoke into your lungs is definitely not “natural” and like smoking cigarettes, can be harmful to your body.
-    
-    As for the medical uses of marijuana, it contains another chemical called CBD (short for cannabidiol). This is the substance most often associated with creating medical benefits. Unlike THC, CBD does not cause a high.2 Its medical benefits are still being studied, as are methods to breed marijuana plants with high CBD and low THC for medical use.
-    
-    Marijuana is a drug like alcohol, cocaine, or ecstasy. And like these other drugs, it has side effects that can be harmful.`,
+    description: ``,
     imgSrc: "https://en.wikipedia.org/wiki/File:Cannabis_leaf.svg",
     href: "https://en.wikipedia.org/wiki/Cannabis_in_India",
   },
